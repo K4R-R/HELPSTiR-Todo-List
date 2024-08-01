@@ -1,0 +1,38 @@
+[
+   {
+     "id": "1",
+     "title": "Buy groceries",
+     "description": "Purchase milk, bread, eggs, and fruits from the supermarket.",
+     "completed": false,
+     "lastUpdated": "2024-07-30T08:45:00Z"
+   },
+   {
+     "id": "2",
+     "title": "Finish project report",
+     "description": "Complete the final report for the frontend development project by reviewing the last section.",
+     "completed": false,
+     "lastUpdated": "2024-06-30T10:30:00Z"
+   },
+   {
+     "id": "3",
+     "title": "Exercise",
+     "description": "Go for a 30-minute run and do a set of home exercises.",
+     "completed": false,
+     "lastUpdated": "2024-07-29T17:00:00Z"
+   },
+   {
+     "id": "4",
+     "title": "Call mom",
+     "description": "Check in with mom to see how she's doing and update her about the recent job application.",
+     "completed": true,
+     "lastUpdated": "2024-07-28T15:20:00Z"
+   },
+   {
+     "id": "5",
+     "title": "Plan weekend getaway",
+     "description": "Research destinations and accommodations for a weekend trip, and make a booking.",
+     "completed": false,
+     "lastUpdated": "2024-07-27T12:00:00Z"
+   }
+ ]
+ 
