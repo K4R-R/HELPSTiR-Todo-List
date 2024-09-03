@@ -11,11 +11,28 @@ A simple web app to manage tasks, built with React. Features include adding, edi
 
 ## Setup & Run
 
-1. Clone the repository -> git clone https://github.com/K4R-R/HELPSTiR-Todo-List.git
-2. Install the dependencies -> npm install
-3. Start the application -> npm start
+To set up and run the Todo List application locally, follow these steps:
 
-The application will be available at `http://localhost:3000` in your web browser.
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/K4R-R/HELPSTiR-Todo-List.git
+   ```
+
+2. **Install Dependencies**:
+   Navigate to the project directory and install the required dependencies:
+   ```bash
+   cd HELPSTiR-Todo-List
+   npm install
+   ```
+
+3. **Start the Application**:
+   Run the application locally with:
+   ```bash
+   npm start
+   ```
+
+4. **Access the Application**:
+   Open your web browser and go to [http://localhost:3000](http://localhost:3000) to view the application.
 
 ## Deployment
 
